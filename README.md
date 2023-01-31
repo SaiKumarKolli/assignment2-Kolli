@@ -17,3 +17,19 @@ India
 - Sri Lanka
 
 [click here to view my profile](https://github.com/SaiKumarKolli/assignment2-Kolli/blob/main/AboutMe.md)
+
+---
+
+### favourite countries
+
+this table contains list of countries that i recommend for someone to visit
+
+|country | reason | days |
+| -------| -------| -----|
+| India  |Cultural| 10   |
+| Austria| Ice    | 10   |
+| Lanka  | Oceans | 05   |
+|Bangla  | textile| 10   |
+
+
+
