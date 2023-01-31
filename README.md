@@ -12,4 +12,7 @@ India
 3. Sunny
 
 
+- South Africa
+- Indies
+- Sri Lanka
 
