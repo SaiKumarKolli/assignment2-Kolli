@@ -39,7 +39,25 @@ this table contains list of countries that i recommend for someone to visit
 > other fun fact is his innocence.
 -*yave*
 
+
+--- 
+
+ ## code fencing
+
+ [Link to Php code snippet](https://css-tricks.com/snippets/php/test-if-string-starts-with-certain-characters-in-php/)
+
+ ```
+<?php 
   
+function startsWith($string, $startString) { 
+  $len = strlen($startString); 
+  return (substr($string, 0, $len) === $startString); 
+} 
 
+// usage
+echo startsWith("cat", "c"); // true
+echo startsWith("dog", "x"); // false
 
-
+?> 
+ ```
+ [Link to Stackoverflow php page](https://stackoverflow.com/questions/2790899/how-to-check-if-a-string-starts-with-a-specified-string)
