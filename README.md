@@ -44,7 +44,7 @@ this table contains list of countries that i recommend for someone to visit
 
  ## code fencing
 
- [Link to Php code snippet](https://css-tricks.com/snippets/php/test-if-string-starts-with-certain-characters-in-php/)
+ >[Link to Php code snippet](https://css-tricks.com/snippets/php/test-if-string-starts-with-certain-characters-in-php/)
 
  ```
 <?php 
